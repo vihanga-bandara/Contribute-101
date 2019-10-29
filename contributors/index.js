@@ -48,6 +48,14 @@ module.exports.list = [
     twitter_username: 'rafaelbaron',
   },
   {
+    name: 'Vihanga',
+    country: 'Srilanka',
+    role: 'Software Developer',
+    tech_stack: ['Angular', 'C#', 'Java', 'PHP'],
+    github_username: 'vihanga-bandara',
+    twitter_username: 'vihanga123',
+  },
+  {
     name: 'Matheus',
     country: 'Brazil',
     role: 'Software Developer',
